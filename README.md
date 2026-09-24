@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronnilou
 - 👀 I’m interested in PHP, Javascript, LESS, CSS Adobe Commerce, Table tennis and Nostalgic gaming
-- 🌱 I’m currently learning Edge Delivery Service
+- 🌱 I’m currently learning AI Agentic programming
 - 💞️ I’m a fulltime full-stack developer at Royal Unibrew A/S
 - 📫 How to reach me: You need to catch me first
 - 😄 Pronouns: Maestro
